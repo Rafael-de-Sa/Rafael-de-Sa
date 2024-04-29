@@ -1,8 +1,8 @@
 
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-de-sa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-de-Sa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-de-sa&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-de-Sa&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Rafael's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaeldesa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
