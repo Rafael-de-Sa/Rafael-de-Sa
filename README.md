@@ -40,7 +40,7 @@
 
 | Stats                                                                                                                                                                             | Langs                                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Rafael's GitHub stats](https://readme-stats-sooty-pi.vercel.app/api?username=Rafael-de-Sa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://readme-stats-sooty-pi.vercel.app/api/top-langs/?username=Rafael-de-Sa&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Rafael's GitHub stats](https://github-readme-stats-three-alpha-66.vercel.app/api?username=Rafael-de-Sa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats-three-alpha-66.vercel.app/api/top-langs/?username=Rafael-de-Sa&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 | Streak                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -52,6 +52,6 @@
 
 <center>
 
-[![Rafael's WakaTime stats](https://readme-stats-sooty-pi.vercel.app/api/wakatime?username=rafaeldesa&theme=tokyonight&hide=markdown&langs_count=5&display_format=percent)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafael's WakaTime stats](https://github-readme-stats-three-alpha-66.vercel.app/api/wakatime?username=rafaeldesa&theme=tokyonight&hide=markdown&langs_count=5&display_format=percent)](https://github.com/anuraghazra/github-readme-stats)
 
 </center>
