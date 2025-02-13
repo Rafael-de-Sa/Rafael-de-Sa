@@ -2,7 +2,6 @@
 
 - 🎓 Análise e desenvolvimento de software (3/3) - Instituto Federal do Paraná Campus Umuarama
 - 📍 Umuarama - PR
-- 🌱 Abrendendo mais sobre Java Spring Boot.
 
 ## Minhas Skills
 
